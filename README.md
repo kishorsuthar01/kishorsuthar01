@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kishor Suthar</h1>
 <h3 align="center">I am a college student</h3>
-
+<img aligh="right" width:"400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3eC5UPRWcF_Na-9NrFetbZ&ust=1751873848003000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKCw5uncp44DFQAAAAAdAAAAABAc"  />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishorsuthar01&label=Profile%20views&color=0e75b6&style=flat" alt="kishorsuthar01" /> </p>
 
 - 📫 How to reach me **sutharkishor600@gmail.com**
