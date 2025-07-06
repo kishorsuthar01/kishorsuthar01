@@ -1,23 +1,23 @@
-<h1>Hi 👋, I'm Kishor</h1>
-<h3>I eat, sleep, and code.</h3>
+<h1 align="center">Hi 👋, I'm Kishor Suthar</h1>
+<h3 align="center">I am a college student</h3>
 
-- ⚡ Fun fact **I still can't fix a printer.**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kishorsuthar01&label=Profile%20views&color=0e75b6&style=flat" alt="kishorsuthar01" /> </p>
 
-<h3>Connect with me:</h3>
+- 📫 How to reach me **sutharkishor600@gmail.com**
 
-<code><a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m4dd0c" height="20" /></a></code> 
-<code><a href="https://instagram.com/kkroxx08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m4dd0c_" height="20" /></a></code>
+- ⚡ Fun fact **I eat, sleep, and code.**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/ kishor-suthar-87320a371" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ kishor-suthar-87320a371" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/kkroxx08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kkroxx08" height="30" width="40" /></a>
+</p>
 
-<h3>GitHub Stats:</h3>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=kishorsuthar01&show_icons=true&theme=github_dark&locale=en" alt="kishor" />  | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishorsuthar01&theme=github_dark" alt="kishor" /> |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kishorsuthar01&show_icons=true&locale=en&layout=compact" alt="kishorsuthar01" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kishorsuthar01&show_icons=true&locale=en" alt="kishorsuthar01" /></p>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kishorsuthar01&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="kishor" />  | <img align="center" src="https://github-contributor-stats.vercel.app/api?username=kishorsuthar01&limit=3&theme=github_dark&hide_border=true&combine_all_yearly_contributions=true" alt="kishor" /> |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
-
----
-[![views](https://visitcount.itsvg.in/api?id=kishorsuthar01&icon=2&color=6)](https://visitcount.itsvg.in)
- 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishorsuthar01&" alt="kishorsuthar01" /></p>
